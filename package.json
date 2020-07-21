@@ -1,0 +1,27 @@
+{
+  "name": "api-sistem",
+  "version": "0.0.1",
+  "description": "api-sistem",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "random-text-faces": "^1.0.9"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/CodAre-Development/express-api-ornek"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "Furtsy",
+    "text-face"
+  ]
+}
